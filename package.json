@@ -1,6 +1,6 @@
 {
   "name": "@akshidas/pagination",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Pagination component for custom use",
   "main": "dist/index.js",
   "scripts": {
