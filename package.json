@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "clean": "rm -rf dist",
-    "build": "npm run clean && tsc && cp package.json ./dist"
+    "build": "npm run clean && tsc && cp package.json README.md ./dist"
   },
   "author": "Akshay",
   "license": "ISC",
